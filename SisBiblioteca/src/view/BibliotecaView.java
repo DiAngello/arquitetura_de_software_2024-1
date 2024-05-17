@@ -1,3 +1,8 @@
+package view;
+
+import controller.BibliotecaController;
+import model.Livro;
+
 import java.util.List;
 import java.util.Scanner;
 

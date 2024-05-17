@@ -1,3 +1,9 @@
+package controller;
+
+import model.Biblioteca;
+import model.Livro;
+import view.BibliotecaView;
+
 import java.util.List;
 
 public class BibliotecaController {
